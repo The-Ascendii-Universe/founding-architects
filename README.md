@@ -1,21 +1,27 @@
 # founding-architects
-your-repo-name/
-├── README.md                  ← Main landing page (use the version below)
+ascendii-interlink/                 ← Your public repo
+├── README.md                       ← Enhanced with Trinity teaser
+├── LICENSE                         ← BUSL-1.1 (as before)
+├── NOTICE.txt                      ← Updated with Trinity trademarks
 ├── docs/
-│   ├── INTERLINK.md           ← Full protocol documentation (the one you just saw)
-│   ├── mechanics/
-│   │   ├── bonding-curve.md
-│   │   ├── cross-chain-bridge.md
-│   │   ├── effort-points-ep.md
-│   │   └── probabilistic-crafting.md
-│   ├── code/
-│   │   ├── bridgeComponent.sol
-│   │   └── vrfFulfill.sol
+│   ├── INTERLINK.md                ← Existing protocol docs
+│   ├── trinity/                    ← New folder for this
+│   │   ├── ASCENDII-TRINITY.md     ← Full doc (below)
+│   │   ├── progression.md          ← Table/exportable summary
+│   │   ├── quests/
+│   │   │   ├── aqua-vitae.md
+│   │   │   ├── helios-forge.md
+│   │   └── arbor-vitae.md
 │   └── assets/
-│       ├── interlink-logo.png (if you have one)
-│       └── nexus-tiers.png
+│       └── trinity-visual.png      ← 💧☀️🌳 diagram (add if you have)
 └── .github/
-    └── FUNDING.yml            ← Optional sponsorship
+    └── ISSUE_TEMPLATE/             ← Add "Trinity Quest Idea" template      ## 🌟 New: The Ascendii Trinity ∞
+Crafting that changes lives—Water → Energy → Nature.
+
+- [Full Trinity Docs](/docs/trinity/ASCENDII-TRINITY.md)
+- Live Impact: [23 Wells | 11 Schools | 147K Trees](https://memory.tanka.ai/g0Y4ZdAp9rxs7-LtobaBD)
+
+**Your Impact Awaits**: Forge legends, fund futures. Start with 10K EP.← Optional sponsorship
 # INTERLINK — The Ascendii Universe ∞
 
 **Where Systems Embody Wisdom**  
