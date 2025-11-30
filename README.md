@@ -23,3 +23,5 @@ graph TD
     B --> F[Metaverse Mall<br/>Equity Shares]
     B --> G[Nexus of Equity<br/>Manifesto Signers]
     style B fill:#ff6b35,stroke:#fff,color:#fff
+**Community**  
+[Discord: Nexus of Equity](https://discord.gg/e9mWyUJX2) · [Mirror](https://mirror.xyz/ascendii.eth) · [@AscendiiUniverse](https://x.com/AscendiiUniverse)
