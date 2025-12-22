@@ -71,7 +71,7 @@ To respond to the summons and step into the First Circle, you must declare your 
 2. **The Proof:** Share one artifact of your work that demonstrates your mastery of flow, frequency, or form.
 3. **The Connection:** Reach out via the coordinates below with the subject line: **"First Circle Response: [Your Archetype]"**
 
-* **Discord:** [Join the Nexus of Equity](https://discord.gg/e9mWyUJX2) (Post in #the-threshold)
+* **Discord:** [Join the Nexus of Equity] [(https://discord.gg/eR68v2cMf)] (Post in #the-threshold)
 * **Digital Correspondence:** [metaversemallprjct@gmail.com]
 * **On-Chain:** Open a [GitHub Issue](https://github.com/The-Ascendii-Universe/founding-architects/issues) titled "Resonance Declaration" to begin your public record of contribution.
 
