@@ -57,22 +57,18 @@ Ascendii is calling in a Vision Keeper — the one who can give the universe its
 
 ---
 
+---
+
 ## 🌌 How to Step Forward
 
 If one of these archetypes resonates as a truth inside you, the First Circle is ready for your arrival.
 
-## ⚖️ The Declaration of Resonance
+**To respond to the summons:**
 
-To respond to the summons and step into the First Circle, you must declare your intent. We do not seek resumes; we seek the recognition of your archetype.
+1. **Review the Law:** Read the [Constitution](./Constitution.md) to understand the source code of our culture.
+2. **Consult the Vision:** Return to the [Main Repository](./README.md) to see the broader architecture.
+3. **The Threshold:** Join our Discord and declare your resonance in the `#general` channel.
 
-**How to Step Forward:**
-
-1. **The Choice:** Identify which pillar of the Triad you inhabit (Maestro, Echo-Bearer, or Light-Shaper).
-2. **The Proof:** Share one artifact of your work that demonstrates your mastery of flow, frequency, or form.
-3. **The Connection:** Reach out via the coordinates below with the subject line: **"First Circle Response: [Your Archetype]"**
-
-* **Discord:** [Join the Nexus of Equity] [(https://discord.gg/eR68v2cMf)] (Post in #the-threshold)
-* **Digital Correspondence:** [metaversemallprjct@gmail.com]
-* **On-Chain:** Open a [GitHub Issue](https://github.com/The-Ascendii-Universe/founding-architects/issues) titled "Resonance Declaration" to begin your public record of contribution.
+**[Step Through the Threshold (Discord)](https://discord.gg/eR68v2cMf)**
 
 > *"The architecture is persistent. The invitation is open. The choice is yours."* 🔺
