@@ -7,42 +7,33 @@
 > "Building the infrastructure for a persistent, sovereign, and equitable digital frontier."
 > ---
 
-## 🔺 The First Circle: A Summons for the Creators
 
-The architecture is set. The foundations are laid. Now, we call upon the stabilizing geometry of the First Circle to breathe life into the Ascendii Universe. We are seeking three archetypal leads to join the Architect of Meaning.
+---## 🔺 The First Circle: A Summons for the Triad
 
----
+The foundations are laid. We now call upon the stabilizing geometry of the First Circle—the three archetypal leads who will breathe life into the Ascendii Universe alongside the Architect of Meaning.
 
-### 💰 The Maestro of Economic Flow (The Conductor)
-*The system is designed; the flows are mapped. We need the one who can activate the treasury and sustain the living circulation of value.*
-> **[Respond to the Maestro's Call](./First-Circle.md#maestro)**
-
----
-
-### 🎙️ The Resonance Architect (The Echo-Bearer)
-*Audio is emotional architecture. We need the one who designs in atmospheres and feels in frequencies to give the universe its voice.*
-> **[Respond to the Resonance Call](./First-Circle.md#resonance)**
+| 💰 The Maestro | 🎙️ The Resonance Architect | 🎨 The Vision Keeper |
+| :--- | :--- | :--- |
+| **The Conductor** | **The Echo-Bearer** | **The Light-Shaper** |
+| Orchestrating the flow of value and equity. | Shaping the emotional and sonic atmosphere. | Crafting the mythic anchors and visual face. |
+| [Respond to the Call](./First-circle.md#the-maestro-of-economic-flow) | [Respond to the Call](./First-circle.md#the-resonance-architect) | [Respond to the Call](./First-circle.md#the-vision-keeper) |
 
 ---
-
-### 🎨 The Vision Keeper (The Light-Shaper)
-*Visuals are mythic anchors. We need the one who thinks in symbols and dreams in color systems to give the universe its face.*
-> **[Respond to the Vision Call](./First-Circle.md#vision)**
-
----
-
 
 ### **Your Mandate**
+
 You will not be building from scratch; you will be **conducting**. Your focus will be:
-1.  **Activating the Treasury:** Bringing the financial heart of the Nexus online.
-2.  **Implementing Equity:** Ensuring contributor rewards flow exactly as the architecture demands.
-3.  **Monitoring & Refinement:** Using real-world feedback to keep the system in harmony as the world grows.
+
+1. **Activating the Treasury:** Bringing the financial heart of the Nexus online.
+2. **Implementing Equity:** Ensuring contributor rewards flow exactly as the architecture demands.
+3. **Monitoring & Refinement:** Using real-world feedback to keep the system in harmony as the world grows.
 
 > *The First Circle is forming. If you hear the tempo of this world and can keep it in harmony, step forward.*
 
-**[Contact the Founding Architects to Respond](INSERT_LINK_OR_EMAIL_HERE)**
+**[Contact the Founding Architects to Respond](https://discord.gg/eR68v2cMf)**
 
 ---
+
 
 
 ## 🌌 Our Vision
