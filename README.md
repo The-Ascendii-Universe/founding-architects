@@ -7,19 +7,30 @@
 > "Building the infrastructure for a persistent, sovereign, and equitable digital frontier."
 > ---
 
-## 💰 The Summons: Maestro of Economic Flow
+## 🔺 The First Circle: A Summons for the Creators
 
-**Ascendii is calling in a conductor to bring a completed economic architecture to life.**
+The architecture is set. The foundations are laid. Now, we call upon the stabilizing geometry of the First Circle to breathe life into the Ascendii Universe. We are seeking three archetypal leads to join the Architect of Meaning.
 
-The system is designed. The flows are mapped. The contributor‑equity mechanics are ready. The treasury logic is built. We do not need an architect—we need an **Orchestrator**.
+---
 
-### **The Calling**
-We are seeking the individual who can activate, test, and sustain the living circulation of value through the Ascendii Universe. This is a role for someone who:
+### 💰 The Maestro of Economic Flow (The Conductor)
+*The system is designed; the flows are mapped. We need the one who can activate the treasury and sustain the living circulation of value.*
+> **[Respond to the Maestro's Call](./First-Circle.md#maestro)**
 
-* **Thinks in Systems & Feels in Rhythms:** You understand that decentralization requires a steady pulse, not just a static code.
-* **Masters the Tools:** You are fluent in Web3 treasury management and sustainability simulations.
-* **Operationalizes Vision:** You can translate the complexity of our finished model into a clear, functional reality.
-* **Stewards with Integrity:** You see economics as **orchestration, not extraction.**
+---
+
+### 🎙️ The Resonance Architect (The Echo-Bearer)
+*Audio is emotional architecture. We need the one who designs in atmospheres and feels in frequencies to give the universe its voice.*
+> **[Respond to the Resonance Call](./First-Circle.md#resonance)**
+
+---
+
+### 🎨 The Vision Keeper (The Light-Shaper)
+*Visuals are mythic anchors. We need the one who thinks in symbols and dreams in color systems to give the universe its face.*
+> **[Respond to the Vision Call](./First-Circle.md#vision)**
+
+---
+
 
 ### **Your Mandate**
 You will not be building from scratch; you will be **conducting**. Your focus will be:
