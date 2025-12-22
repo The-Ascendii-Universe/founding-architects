@@ -5,6 +5,34 @@
 # 🏛️ The Founding Architects
 
 > "Building the infrastructure for a persistent, sovereign, and equitable digital frontier."
+> ---
+
+## 💰 The Summons: Maestro of Economic Flow
+
+**Ascendii is calling in a conductor to bring a completed economic architecture to life.**
+
+The system is designed. The flows are mapped. The contributor‑equity mechanics are ready. The treasury logic is built. We do not need an architect—we need an **Orchestrator**.
+
+### **The Calling**
+We are seeking the individual who can activate, test, and sustain the living circulation of value through the Ascendii Universe. This is a role for someone who:
+
+* **Thinks in Systems & Feels in Rhythms:** You understand that decentralization requires a steady pulse, not just a static code.
+* **Masters the Tools:** You are fluent in Web3 treasury management and sustainability simulations.
+* **Operationalizes Vision:** You can translate the complexity of our finished model into a clear, functional reality.
+* **Stewards with Integrity:** You see economics as **orchestration, not extraction.**
+
+### **Your Mandate**
+You will not be building from scratch; you will be **conducting**. Your focus will be:
+1.  **Activating the Treasury:** Bringing the financial heart of the Nexus online.
+2.  **Implementing Equity:** Ensuring contributor rewards flow exactly as the architecture demands.
+3.  **Monitoring & Refinement:** Using real-world feedback to keep the system in harmony as the world grows.
+
+> *The First Circle is forming. If you hear the tempo of this world and can keep it in harmony, step forward.*
+
+**[Contact the Founding Architects to Respond](INSERT_LINK_OR_EMAIL_HERE)**
+
+---
+
 
 ## 🌌 Our Vision
 The Founding Architects are the stewards of **The Ascendii Universe**. We believe that the digital future should not be owned by centralized silos, but by the creators and participants who inhabit it. 
