@@ -1,4 +1,56 @@
 <img src="https://github.com/The-Ascendii-Universe/.github/blob/main/profile/Trinity.png?raw=true" align="right" width="180" />
+# 🜂 Founding Architects  
+**Building the Ascendii Universe — Infrastructure, Governance, and Co-Creation**
+
+> A collaborative initiative to design and steward the foundational architecture of the Ascendii Universe:  
+> decentralized systems, economic models, governance frameworks, and interoperable digital worlds.
+
+---
+
+## 🌌 Overview
+
+**Founding Architects** is an open collaboration space for those helping design, build, and refine the structural backbone of the Ascendii Universe.
+
+This repository serves as:
+- A **coordination hub** for contributors
+- A **source of truth** for foundational documents
+- A **launch point** for systems that support sovereignty, interoperability, and equitable value exchange
+
+Whether you are a developer, designer, economist, writer, or systems thinker — this is where foundations are laid.
+
+---
+
+## 🧭 Vision & Principles
+
+- **Digital Sovereignty** – Users own their assets, identity, and contributions  
+- **Interoperability First** – Systems designed to work across platforms and worlds  
+- **Transparency by Default** – Open governance, open economics, open collaboration  
+- **Human-Centered Design** – Technology serves people, not the other way around  
+- **Co-Creation Over Extraction** – Value is grown together, not harvested from others  
+
+Founding Architects are not just builders — they are stewards.
+
+---> Folder names may evolve as the project matures — clarity and accessibility are priorities.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/The-Ascendii-Universe/founding-architects.git
+cd founding-architects
+
+## 🏗️ What’s in This Repository
+├── README.md                # You are here
+├── CONTRIBUTING.md          # How to get involved
+├── LICENSE                  # Open-source license
+├── manifesto/               # Vision, principles, and philosophical foundations
+├── governance/              # DAO constitution, covenants, decision frameworks
+├── architecture/            # System diagrams, technical designs
+├── docs/                    # Developer & contributor documentation
+├── assets/                  # Images, diagrams, media
+└── prototypes/              # Early demos, experiments, and proofs of concept
 
 # Founding Architects  
 **The Genesis NFT Collection & Reputation Primitives of the Ascendii Universe**
