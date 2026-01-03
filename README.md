@@ -1,3 +1,7 @@
+![Stars](https://img.shields.io/github/stars/The-Ascendii-Universe/founding-architects)
+![Issues](https://img.shields.io/github/issues/The-Ascendii-Universe/founding-architects)
+![License](https://img.shields.io/github/license/The-Ascendii-Universe/founding-architects)
+
 # 📜 License & Governance
 
 **MIT License** — Permissive and built for interoperability.
