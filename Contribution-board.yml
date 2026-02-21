@@ -1,0 +1,25 @@
+name: Ascendii Contribution Board
+description: A mythic ledger of rites, bonding tasks, and proof-of-effort contributions
+views:
+  - name: Ritual Flow
+    filter: ""
+    layout: board
+    fields:
+      - status
+      - labels
+      - assignees
+      - milestone
+      - dueDate
+status:
+  - name: 🌱 Initiation
+    description: Ideas, proposals, and unclaimed tasks awaiting ritual invocation
+    value: "initiation"
+  - name: ⚒️ Bonding in Progress
+    description: Tasks actively being performed—rituals underway
+    value: "in_progress"
+  - name: ✨ Oracle Review
+    description: Awaiting validation, governance, or oracle confirmation
+    value: "review"
+  - name: 🌐 Ascended
+    description: Completed rites—merged, bonded, and part of the living mythos
+    value: "done"
