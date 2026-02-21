@@ -1,0 +1,29 @@
+name: 🔗 Rite of Bonding — Unified Assets
+description: Bond NFTs and tokens under one ritual process
+title: "[Unified Bonding] <brief task name>"
+labels: ["NFT", "token", "bonding"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🔗 Unified Bonding
+        This task merges NFT and token mechanics into a single bonded ritual—fractional, soulbound, and yield-rich.
+
+  - type: textarea
+    id: task
+    attributes:
+      label: ⚒️ Task Description
+      description: Describe the unified bonding task.
+      placeholder: "e.g., Implement fractional vaults for NFTs"
+
+  - type: checkboxes
+    id: steps
+    attributes:
+      label: ✨ Ritual Steps
+      options:
+        - label: Implement fractional vaults
+        - label: Add soulbound trait logic
+        - label: Design buyout/rejection game mechanics
+        - label: Build AMM-style token pools
+        - label: Amplify staking logic
+        - label: Create bonding curve and bridge diagrams
