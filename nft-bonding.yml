@@ -1,0 +1,29 @@
+name: 🪙 Rite of Bonding — NFT Mechanics
+description: Elevate NFTs into bonded, yield-generating assets
+title: "[NFT Bonding] <brief task name>"
+labels: ["NFT", "bonding", "liquidity"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🪙 NFT Bonding
+        This task transforms NFTs from static collectibles into dynamic, bonded liquidity flows within Ascendii.
+
+  - type: textarea
+    id: task
+    attributes:
+      label: ⚒️ Task Description
+      description: Describe the NFT bonding mechanic.
+      placeholder: "e.g., Build liquidity vault smart contracts"
+
+  - type: checkboxes
+    id: steps
+    attributes:
+      label: ✨ Ritual Steps
+      options:
+        - label: Build liquidity vault contracts
+        - label: Implement bonding curve logic
+        - label: Write bonding guide (initiate → curve → yield → unbond)
+        - label: Integrate into Virtual Mall
+        - label: Integrate into Gamers Pavilion
+        - label: Integrate into Nexus treasury
