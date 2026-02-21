@@ -1,0 +1,29 @@
+name: ⏳ Rite of Effort — Membership NFTs
+description: Mint time-bound membership NFTs via verified work
+title: "[Proof-of-Effort] <brief task name>"
+labels: ["membership", "NFT", "proof-of-effort"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ⏳ Proof-of-Effort
+        This task encodes the rite where verified work becomes on-chain membership—1 hour = 1 month of access.
+
+  - type: textarea
+    id: task
+    attributes:
+      label: ⚒️ Task Description
+      description: Describe the proof-of-effort mechanic.
+      placeholder: "e.g., Smart contract for time-bound membership NFTs"
+
+  - type: checkboxes
+    id: steps
+    attributes:
+      label: ✨ Ritual Steps
+      options:
+        - label: Smart contract: 1h → 1 month NFT
+        - label: Metadata schema for task verification
+        - label: Oracle integration (Solana + Chainlink)
+        - label: Anti-abuse safeguard logic
+        - label: Upgrade stacking mechanism
+        - label: Enable cross-chain portability
